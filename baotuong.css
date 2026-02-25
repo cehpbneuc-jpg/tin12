@@ -1,0 +1,41 @@
+.header {
+	margin: 50px;
+	padding-left: 700px;
+	h3{
+		padding-left: 650px;
+	}
+	font-family: Arial;
+	color: #b71c5c;
+	background-color: #ffd6e8;
+	border: 1px solid #ddd; 
+}
+.gioithieu1 {
+	h2{
+		padding-left: 750px;
+		font-family: serif;
+	}
+	border: padding-left 150px; border: solid;
+
+
+}
+.gioithieu2{
+	border: solid;
+}
+.noidung img {
+	width: 300px;
+	height: 200px;
+	margin: 10px;
+    }
+.binhluan {
+	h2 {
+		padding-left: 750px;
+	}
+	width: 100%;
+	padding: 10px 12px;
+	border: 1.5px solid #ffb6c1;
+	font-size: 16px;
+	background-color: #90caf9;
+}
+.tennhom {
+	border: solid black;
+}
